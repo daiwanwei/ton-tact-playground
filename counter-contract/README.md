@@ -1,4 +1,4 @@
-# Counter contract implemented with tact
+# Counter contract implemented in tact
 
 This project has ready to use TACT compiler, typescript + jest with [ton-emulator](https://github.com/ton-community/ton-emulator), example how to do tests.
 
